@@ -15,7 +15,7 @@ The project is a virtual walk through the most famous sights of the town of Pern
 
 ## Objectives
 
-The application aims to show the most famous landmarks of the city of Pernik, through some of the most modern and interactive technologies of the twenty-first century, namely 3D models and their visualization.
+The application aims to show the most famous landmarks of the city of Pernik, through some of the most modern and interactive technologies of the twenty-first century, namely 3D models and their visualization
 
 ## Level of complexity
 
